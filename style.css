@@ -655,6 +655,11 @@ a {
     color: #575757!important;
 }
 
+#descriptionTitle {
+    max-width: 635px;
+    margin: auto;
+}
+
 .container {
     max-width: 1000px;
 }
