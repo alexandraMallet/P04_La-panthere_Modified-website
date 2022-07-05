@@ -655,6 +655,10 @@ a {
     color: #575757!important;
 }
 
+blockquote {
+    font-style: italic;
+}
+
 #descriptionTitle {
     max-width: 635px;
     margin: auto;
