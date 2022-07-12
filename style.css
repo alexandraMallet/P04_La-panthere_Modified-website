@@ -332,9 +332,10 @@ a:hover {
     text-align: inherit;
 }
 
-.nav > li a:hover,
-.nav > li a:focus {
+.nav a:hover,
+.nav a:focus {
     background: transparent;
+    border:#364577 solid 2px;
 }
 
 .navbar-toggle {
@@ -418,6 +419,7 @@ nav .caret {
 .btn-d:focus {
     color: #FFF;
     background: rgba(0, 0, 0, .3);
+    border:#364577 solid 2px;
 }
 
 button {
@@ -673,6 +675,11 @@ p {
     margin: auto auto auto auto;
 }
 
+.social span:hover,
+.social span:focus {
+    border:#364577 solid 2px;
+}
+
 h2 {
     font-size: 22px;
     line-height: 1.4em;
@@ -756,17 +763,21 @@ h4 {
     color: #424242!important;
 }
 
-.btn-atomic-tangerine:hover {
+.btn-atomic-tangerine:hover,
+.btn-atomic-tangerine:focus  {
     background: #c27956!important;
     color: #FFFFFF!important;
+    border:#364577 solid 2px;
 }
 
 .ltc-white {
     color: #FFFFFF!important;
 }
 
-.ltc-white:hover {
+.ltc-white:hover,
+.ltc-white:focus {
     color: #cccccc!important;
+    border:#364577 solid 2px;
 }
 
 .ltc-atomic-tangerine {
