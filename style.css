@@ -680,6 +680,11 @@ p {
     border:#364577 solid 2px;
 }
 
+.col-sm-6 a:hover,
+.col-sm-6 a:focus {
+    border:#364577 solid 2px;
+}
+
 h2 {
     font-size: 22px;
     line-height: 1.4em;
