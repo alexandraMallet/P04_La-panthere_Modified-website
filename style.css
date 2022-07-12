@@ -675,8 +675,8 @@ p {
     margin: auto auto auto auto;
 }
 
-.social span:hover,
-.social span:focus {
+.social a:hover,
+.social a:focus {
     border:#364577 solid 2px;
 }
 
